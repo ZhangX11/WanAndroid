@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+    <string name="home">首页</string>
+    <string name="knowledgeSystem">知识体系</string>
+    <string name="mine">我的</string>
+    <string name="nightMode">夜间模式</string>
+    <string name="dayMode">日间模式</string>
+    <string name="logout">退出</string>
+    <string name="myBookMark">我的书签</string>
+    <string name="myFavorite">我的收藏</string>
+    <string name="setting">设置</string>
+    <string name="drawer_open">展开</string>
+    <string name="drawer_close">关闭</string>
+</resources>

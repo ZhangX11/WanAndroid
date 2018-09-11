@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nightMode"
+            android:title="@string/nightMode"
+            android:icon="@drawable/ic_brightness"
+            />
+        <item android:id="@+id/myBookMark"
+            android:title="@string/myBookMark"
+            android:icon="@drawable/ic_bookmark"
+            />
+        <item android:id="@+id/myFavorite"
+            android:title="@string/myFavorite"
+            android:icon="@drawable/ic_favorite"
+            />
+        <item android:id="@+id/setting"
+            android:title="@string/setting"
+            android:icon="@drawable/ic_settings"
+            />
+    </group>
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/logout"
+            android:title="@string/logout"
+            android:icon="@drawable/ic_logout"
+            />
+    </group>
+</menu>
